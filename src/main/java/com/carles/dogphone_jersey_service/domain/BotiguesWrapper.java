@@ -2,7 +2,6 @@ package com.carles.dogphone_jersey_service.domain;
 
 import java.util.ArrayList;
 import java.util.List;
-import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
 @XmlRootElement
